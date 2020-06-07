@@ -1,4 +1,4 @@
-# Training Section 1
+# Training Session 1
 
 > In this section we will learning on the some cool tips and concept which you use in your code right way and get you started with writing awesome code. 
 
